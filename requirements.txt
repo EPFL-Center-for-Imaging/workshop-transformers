@@ -1,0 +1,12 @@
+transformers
+datasets
+accelerate
+gradio
+timm
+torch
+torchvision
+scikit-learn 
+numpy
+matplotlib
+ipykernel
+ipywidgets
